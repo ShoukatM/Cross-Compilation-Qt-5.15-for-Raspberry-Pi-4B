@@ -1,0 +1,1 @@
+# Cross-Compiling-Qt-5.15.0-for-Raspberry-Pi-4
