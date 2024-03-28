@@ -1,4 +1,4 @@
-# Cross-Compiling-Qt-5.15.0-for-Raspberry-Pi-4
+# Cross-Compilation-Qt-5.15-for-Raspberry-Pi-4B
 
 
 This is a guide for Cross-compiling Qt 5.15 for a Raspberry Pi 4 running Ubuntu
